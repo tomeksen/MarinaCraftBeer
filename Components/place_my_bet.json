@@ -1,0 +1,52 @@
+{
+    "eventos":[
+        {
+        "ID":1,
+        "Tipo_Mercado":"1.5",
+        "Dinero_Over":0,
+        "Dinero_Under":0,
+        "Cuota_Over":0,
+        "Cuota_Under":0,
+        "Equipo_Local":"Valencia",
+        "Equipo_Visitante":"Barcelona",
+        "Fecha_Partido":"07/01/2020"
+        
+        }
+    ],
+    
+    "banco":[
+        {
+            "ID":1,
+            "email":"ennaco",
+            "Nombre_Banco":"Santander",
+            "Saldo":5000
+            
+        }
+    ],
+
+    "apuesta":[
+        {
+            "ID":1,
+            "email":"ennaco",
+            "Evento_ID":1,
+            "Tipo_Apuesta":"over",
+            "Dinero_Apostado":700,
+            "Cuota":0
+            
+        }
+    ],
+
+    "usuario":[
+        {
+            "Nombre":"Enric",
+            "Apellido":"Navarro",
+            "email":"ennaco",
+            "Contraseña":"N"
+        }
+    ]
+
+
+
+
+    
+}
